@@ -1,0 +1,5 @@
+Got difference on row 1
+	Difference{expected='2', colName='id', got='1', row=2}
+Got difference on row 2
+	Difference{expected='1', colName='id', got='2', row=3}
+Total column difference: 2

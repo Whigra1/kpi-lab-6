@@ -1,0 +1,17 @@
+Got difference on row 1
+	Difference{expected='2', colName='id', got='4', row=2}
+	Difference{expected='TES 5: Skyrim', colName='name', got='Sea of thieves', row=2}
+	Difference{expected='60', colName='price', got='15', row=2}
+Got difference on row 2
+	Difference{expected='1', colName='id', got='3', row=3}
+	Difference{expected='The Wither 3: Wild hunt', colName='name', got='Fable: The lost chapters', row=3}
+	Difference{expected='30', colName='price', got='20', row=3}
+Got difference on row 3
+	Difference{expected='3', colName='id', got='1', row=4}
+	Difference{expected='Fable: The lost chapters', colName='name', got='The Wither 3: Wild hunt', row=4}
+	Difference{expected='20', colName='price', got='30', row=4}
+Got difference on row 4
+	Difference{expected='4', colName='id', got='2', row=5}
+	Difference{expected='Sea of thieves', colName='name', got='TES 5: Skyrim', row=5}
+	Difference{expected='15', colName='price', got='60', row=5}
+Total column difference: 12
